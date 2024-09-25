@@ -1,0 +1,11 @@
+P:\Modules\C# Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Common\bin\Debug\net8.0\CinemaApp.Common.deps.json
+P:\Modules\C# Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Common\bin\Debug\net8.0\CinemaApp.Common.dll
+P:\Modules\C# Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Common\bin\Debug\net8.0\CinemaApp.Common.pdb
+P:\Modules\C# Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Common\obj\Debug\net8.0\CinemaApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+P:\Modules\C# Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Common\obj\Debug\net8.0\CinemaApp.Common.AssemblyInfoInputs.cache
+P:\Modules\C# Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Common\obj\Debug\net8.0\CinemaApp.Common.AssemblyInfo.cs
+P:\Modules\C# Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Common\obj\Debug\net8.0\CinemaApp.Common.csproj.CoreCompileInputs.cache
+P:\Modules\C# Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Common\obj\Debug\net8.0\CinemaApp.Common.dll
+P:\Modules\C# Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Common\obj\Debug\net8.0\refint\CinemaApp.Common.dll
+P:\Modules\C# Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Common\obj\Debug\net8.0\CinemaApp.Common.pdb
+P:\Modules\C# Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Common\obj\Debug\net8.0\ref\CinemaApp.Common.dll
