@@ -35,12 +35,12 @@ namespace CinemaApp.Web.Controllers
         [HttpPost]
         public IActionResult Create(AddMovieInputModel inputModel)
         {
-            bool isReleaseDateValid = DateTime.TryParseExact(inputModel.ReleasDate, "dd/MM/yyyy",
+            bool isReleaseDateValid = DateTime.TryParseExact(inputModel.ReleaseDate, "dd/MM/yyyy",
                 CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime releaseDate);
 
             if (!isReleaseDateValid)
             {
-                this.ModelState.AddModelError(nameof(inputModel.ReleasDate), "The Releas Date must be in the following format: dd/MM/yyyy");
+                this.ModelState.AddModelError(nameof(inputModel.ReleaseDate), "The Releas Date must be in the following format: dd/MM/yyyy");
                 return this.View(inputModel);
             }
 

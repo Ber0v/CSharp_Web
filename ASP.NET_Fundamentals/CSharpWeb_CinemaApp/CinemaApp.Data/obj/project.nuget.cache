@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/3HF+3QWnjA=",
+  "dgSpecHash": "cUCoo9Kkm70=",
   "success": true,
-  "projectFilePath": "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data\\CinemaApp.Data.csproj",
+  "projectFilePath": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data\\CinemaApp.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alebe\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\alebe\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

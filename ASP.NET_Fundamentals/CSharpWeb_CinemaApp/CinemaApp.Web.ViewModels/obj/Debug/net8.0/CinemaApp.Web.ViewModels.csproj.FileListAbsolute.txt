@@ -13,3 +13,19 @@ P:\Modules\C# Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Web.ViewMod
 P:\Modules\C# Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\bin\Debug\net8.0\CinemaApp.Common.pdb
 P:\Modules\C# Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\CinemaApp.Web.ViewModels.csproj.AssemblyReference.cache
 P:\Modules\C# Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\CinemaAp.B0FE653C.Up2Date
+P:\Modules\CSharp_Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\bin\Debug\net8.0\CinemaApp.Web.ViewModels.deps.json
+P:\Modules\CSharp_Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\bin\Debug\net8.0\CinemaApp.Web.ViewModels.dll
+P:\Modules\CSharp_Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\bin\Debug\net8.0\CinemaApp.Web.ViewModels.pdb
+P:\Modules\CSharp_Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\bin\Debug\net8.0\CinemaApp.Common.dll
+P:\Modules\CSharp_Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\bin\Debug\net8.0\CinemaApp.Common.pdb
+P:\Modules\CSharp_Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\CinemaApp.Web.ViewModels.csproj.AssemblyReference.cache
+P:\Modules\CSharp_Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\CinemaApp.Web.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+P:\Modules\CSharp_Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\CinemaApp.Web.ViewModels.AssemblyInfoInputs.cache
+P:\Modules\CSharp_Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\CinemaApp.Web.ViewModels.AssemblyInfo.cs
+P:\Modules\CSharp_Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\CinemaApp.Web.ViewModels.csproj.CoreCompileInputs.cache
+P:\Modules\CSharp_Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\CinemaApp.Web.ViewModels.sourcelink.json
+P:\Modules\CSharp_Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\CinemaAp.B0FE653C.Up2Date
+P:\Modules\CSharp_Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\CinemaApp.Web.ViewModels.dll
+P:\Modules\CSharp_Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\refint\CinemaApp.Web.ViewModels.dll
+P:\Modules\CSharp_Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\CinemaApp.Web.ViewModels.pdb
+P:\Modules\CSharp_Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\ref\CinemaApp.Web.ViewModels.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data.Models\\CinemaApp.Data.Models.csproj": {}
+    "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data.Models\\CinemaApp.Data.Models.csproj": {}
   },
   "projects": {
-    "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data.Models\\CinemaApp.Data.Models.csproj": {
+    "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data.Models\\CinemaApp.Data.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data.Models\\CinemaApp.Data.Models.csproj",
+        "projectUniqueName": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data.Models\\CinemaApp.Data.Models.csproj",
         "projectName": "CinemaApp.Data.Models",
-        "projectPath": "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data.Models\\CinemaApp.Data.Models.csproj",
+        "projectPath": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data.Models\\CinemaApp.Data.Models.csproj",
         "packagesPath": "C:\\Users\\alebe\\.nuget\\packages\\",
-        "outputPath": "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data.Models\\obj\\",
+        "outputPath": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

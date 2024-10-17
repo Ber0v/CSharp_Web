@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Web\\CinemaApp.Web.csproj": {}
+    "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Web\\CinemaApp.Web.csproj": {}
   },
   "projects": {
-    "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Common\\CinemaApp.Common.csproj": {
+    "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Common\\CinemaApp.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Common\\CinemaApp.Common.csproj",
+        "projectUniqueName": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Common\\CinemaApp.Common.csproj",
         "projectName": "CinemaApp.Common",
-        "projectPath": "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Common\\CinemaApp.Common.csproj",
+        "projectPath": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Common\\CinemaApp.Common.csproj",
         "packagesPath": "C:\\Users\\alebe\\.nuget\\packages\\",
-        "outputPath": "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Common\\obj\\",
+        "outputPath": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data.Models\\CinemaApp.Data.Models.csproj": {
+    "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data.Models\\CinemaApp.Data.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data.Models\\CinemaApp.Data.Models.csproj",
+        "projectUniqueName": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data.Models\\CinemaApp.Data.Models.csproj",
         "projectName": "CinemaApp.Data.Models",
-        "projectPath": "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data.Models\\CinemaApp.Data.Models.csproj",
+        "projectPath": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data.Models\\CinemaApp.Data.Models.csproj",
         "packagesPath": "C:\\Users\\alebe\\.nuget\\packages\\",
-        "outputPath": "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data.Models\\obj\\",
+        "outputPath": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -134,14 +134,14 @@
         }
       }
     },
-    "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data\\CinemaApp.Data.csproj": {
+    "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data\\CinemaApp.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data\\CinemaApp.Data.csproj",
+        "projectUniqueName": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data\\CinemaApp.Data.csproj",
         "projectName": "CinemaApp.Data",
-        "projectPath": "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data\\CinemaApp.Data.csproj",
+        "projectPath": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data\\CinemaApp.Data.csproj",
         "packagesPath": "C:\\Users\\alebe\\.nuget\\packages\\",
-        "outputPath": "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data\\obj\\",
+        "outputPath": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -163,11 +163,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Common\\CinemaApp.Common.csproj": {
-                "projectPath": "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Common\\CinemaApp.Common.csproj"
+              "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Common\\CinemaApp.Common.csproj": {
+                "projectPath": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Common\\CinemaApp.Common.csproj"
               },
-              "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data.Models\\CinemaApp.Data.Models.csproj": {
-                "projectPath": "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data.Models\\CinemaApp.Data.Models.csproj"
+              "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data.Models\\CinemaApp.Data.Models.csproj": {
+                "projectPath": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data.Models\\CinemaApp.Data.Models.csproj"
               }
             }
           }
@@ -218,14 +218,14 @@
         }
       }
     },
-    "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Web.ViewModels\\CinemaApp.Web.ViewModels.csproj": {
+    "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Web.ViewModels\\CinemaApp.Web.ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Web.ViewModels\\CinemaApp.Web.ViewModels.csproj",
+        "projectUniqueName": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Web.ViewModels\\CinemaApp.Web.ViewModels.csproj",
         "projectName": "CinemaApp.Web.ViewModels",
-        "projectPath": "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Web.ViewModels\\CinemaApp.Web.ViewModels.csproj",
+        "projectPath": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Web.ViewModels\\CinemaApp.Web.ViewModels.csproj",
         "packagesPath": "C:\\Users\\alebe\\.nuget\\packages\\",
-        "outputPath": "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Web.ViewModels\\obj\\",
+        "outputPath": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Web.ViewModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -247,8 +247,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Common\\CinemaApp.Common.csproj": {
-                "projectPath": "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Common\\CinemaApp.Common.csproj"
+              "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Common\\CinemaApp.Common.csproj": {
+                "projectPath": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Common\\CinemaApp.Common.csproj"
               }
             }
           }
@@ -287,14 +287,14 @@
         }
       }
     },
-    "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Web\\CinemaApp.Web.csproj": {
+    "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Web\\CinemaApp.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Web\\CinemaApp.Web.csproj",
+        "projectUniqueName": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Web\\CinemaApp.Web.csproj",
         "projectName": "CinemaApp.Web",
-        "projectPath": "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Web\\CinemaApp.Web.csproj",
+        "projectPath": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Web\\CinemaApp.Web.csproj",
         "packagesPath": "C:\\Users\\alebe\\.nuget\\packages\\",
-        "outputPath": "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Web\\obj\\",
+        "outputPath": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -316,14 +316,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Common\\CinemaApp.Common.csproj": {
-                "projectPath": "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Common\\CinemaApp.Common.csproj"
+              "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Common\\CinemaApp.Common.csproj": {
+                "projectPath": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Common\\CinemaApp.Common.csproj"
               },
-              "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data\\CinemaApp.Data.csproj": {
-                "projectPath": "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data\\CinemaApp.Data.csproj"
+              "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data\\CinemaApp.Data.csproj": {
+                "projectPath": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Data\\CinemaApp.Data.csproj"
               },
-              "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Web.ViewModels\\CinemaApp.Web.ViewModels.csproj": {
-                "projectPath": "P:\\Modules\\C# Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Web.ViewModels\\CinemaApp.Web.ViewModels.csproj"
+              "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Web.ViewModels\\CinemaApp.Web.ViewModels.csproj": {
+                "projectPath": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\CSharpWeb_CinemaApp\\CinemaApp.Web.ViewModels\\CinemaApp.Web.ViewModels.csproj"
               }
             }
           }

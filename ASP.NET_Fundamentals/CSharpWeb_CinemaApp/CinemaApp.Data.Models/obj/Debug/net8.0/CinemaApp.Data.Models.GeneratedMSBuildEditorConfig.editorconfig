@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CinemaApp.Data.Models
-build_property.ProjectDir = P:\Modules\C# Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Data.Models\
+build_property.ProjectDir = P:\Modules\CSharp_Web\ASP.NET_Fundamentals\CSharpWeb_CinemaApp\CinemaApp.Data.Models\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

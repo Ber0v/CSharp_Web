@@ -6,7 +6,7 @@ namespace CinemaApp.Web.ViewModels.Movie
     public class AddMovieInputModel
     {
         [Required]
-        [MinLength(TitleMaxLength)]
+        [MaxLength(TitleMaxLength)]
         public string Title { get; set; } = null!;
 
         [Required]
@@ -15,7 +15,7 @@ namespace CinemaApp.Web.ViewModels.Movie
         public string Genre { get; set; } = null!;
 
         [Required]
-        public string ReleasDate { get; set; } = null!;
+        public string ReleaseDate { get; set; } = null!;
 
         [Range(DurationMinValue, DurationMaxValue)]
         public int Duration { get; set; }
