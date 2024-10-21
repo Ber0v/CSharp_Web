@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alebe\\Downloads\\GameZone-Skeleton\\",
+  "WorkspaceRootPath": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\GameZone-App\\GameZone-Skeleton\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|c:\\users\\alebe\\downloads\\gamezone-skeleton\\gamezone\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|p:\\modules\\csharp_web\\asp.net_fundamentals\\gamezone-app\\gamezone-skeleton\\gamezone\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "GameController.cs",
-              "DocumentMoniker": "C:\\Users\\alebe\\Downloads\\GameZone-Skeleton\\GameZone\\Controllers\\GameController.cs",
+              "DocumentMoniker": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\GameZone-App\\GameZone-Skeleton\\GameZone\\Controllers\\GameController.cs",
               "RelativeDocumentMoniker": "GameZone\\Controllers\\GameController.cs",
-              "ToolTip": "C:\\Users\\alebe\\Downloads\\GameZone-Skeleton\\GameZone\\Controllers\\GameController.cs",
+              "ToolTip": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\GameZone-App\\GameZone-Skeleton\\GameZone\\Controllers\\GameController.cs",
               "RelativeToolTip": "GameZone\\Controllers\\GameController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T11:07:07.98Z",
               "EditorCaption": ""

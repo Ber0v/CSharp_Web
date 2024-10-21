@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\DeskMarket\\DeskMarket_Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|p:\\modules\\csharp_web\\asp.net_fundamentals\\deskmarket\\deskmarket_skeleton\\deskmarket\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|p:\\modules\\csharp_web\\asp.net_fundamentals\\deskmarket\\deskmarket_skeleton\\deskmarket\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|p:\\modules\\csharp_web\\asp.net_fundamentals\\deskmarket\\deskmarket_skeleton\\deskmarket\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|p:\\modules\\csharp_web\\asp.net_fundamentals\\deskmarket\\deskmarket_skeleton\\deskmarket\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|p:\\modules\\csharp_web\\asp.net_fundamentals\\deskmarket\\deskmarket_skeleton\\deskmarket\\data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|p:\\modules\\csharp_web\\asp.net_fundamentals\\deskmarket\\deskmarket_skeleton\\deskmarket\\migrations\\20241019090226_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\migrations\\20241019090226_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|p:\\modules\\csharp_web\\asp.net_fundamentals\\deskmarket\\deskmarket_skeleton\\deskmarket\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fd92f3d8-cebf-47b9-bb98-674a1618f364}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\DeskMarket\\DeskMarket_Skeleton\\DeskMarket\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "DeskMarket\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\DeskMarket\\DeskMarket_Skeleton\\DeskMarket\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "DeskMarket\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAwHAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:22:38.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241019090226_Initial.cs",
+              "DocumentMoniker": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\DeskMarket\\DeskMarket_Skeleton\\DeskMarket\\Migrations\\20241019090226_Initial.cs",
+              "RelativeDocumentMoniker": "DeskMarket\\Migrations\\20241019090226_Initial.cs",
+              "ToolTip": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\DeskMarket\\DeskMarket_Skeleton\\DeskMarket\\Migrations\\20241019090226_Initial.cs",
+              "RelativeToolTip": "DeskMarket\\Migrations\\20241019090226_Initial.cs",
+              "ViewState": "AgIAABYBAAAAAAAAAAAmwCEBAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:02:59.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\DeskMarket\\DeskMarket_Skeleton\\DeskMarket\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "DeskMarket\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\DeskMarket\\DeskMarket_Skeleton\\DeskMarket\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "DeskMarket\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAYwG0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:00:33.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\DeskMarket\\DeskMarket_Skeleton\\DeskMarket\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "DeskMarket\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\DeskMarket\\DeskMarket_Skeleton\\DeskMarket\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "DeskMarket\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T15:52:55.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\DeskMarket\\DeskMarket_Skeleton\\DeskMarket\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "DeskMarket\\Models\\ProductViewModel.cs",
+              "ToolTip": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\DeskMarket\\DeskMarket_Skeleton\\DeskMarket\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "DeskMarket\\Models\\ProductViewModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAtwCAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:04:11.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\DeskMarket\\DeskMarket_Skeleton\\DeskMarket\\Data\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DeskMarket\\Data\\Models\\Product.cs",
+              "ToolTip": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\DeskMarket\\DeskMarket_Skeleton\\DeskMarket\\Data\\Models\\Product.cs",
+              "RelativeToolTip": "DeskMarket\\Data\\Models\\Product.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA9wBkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:02:51.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\DeskMarket\\DeskMarket_Skeleton\\DeskMarket\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "DeskMarket\\Controllers\\ProductController.cs",
+              "ToolTip": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\DeskMarket\\DeskMarket_Skeleton\\DeskMarket\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "DeskMarket\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAjwDgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T09:03:20.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

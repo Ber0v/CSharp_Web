@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9ymp9w5QO80=",
+  "dgSpecHash": "Dz9k6U+NJLI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\alebe\\Downloads\\GameZone-Skeleton\\GameZone\\GameZone.csproj",
+  "projectFilePath": "P:\\Modules\\CSharp_Web\\ASP.NET_Fundamentals\\GameZone-App\\GameZone-Skeleton\\GameZone\\GameZone.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alebe\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\alebe\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
